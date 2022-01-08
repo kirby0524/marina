@@ -1,8 +1,0 @@
-Host github
-	HostName github.com
-	IdentityFile ~/.ssh/id-rsa
-	User kirby0524
-	
-
-
-	
